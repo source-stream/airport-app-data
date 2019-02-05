@@ -56,7 +56,7 @@ The [flight data](flights.csv) is a simple comma-separated file containing the f
 The ``x`` denotes days that the flight operates. 
 
 ## How to submit your test
-*_Please do not try and push your code into this repository._* This project is merely a location to hold the test data
+**_Please do not try and push your code into this repository._** This project is merely a location to hold the test data
 and description of the test.
 
 Preferably you will submit your code via a public repository you own e.g. yor own Github or Bitbucket account. However,
