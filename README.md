@@ -1,23 +1,25 @@
 # CHARTERMATCH ~ Flight Information Display
 ## Rules
-The test application should be written using Java, HTML, CSS (Less or SASS is preferable) & Javascript.
-Don't spend too much time on it. We don't want this to be a big undertaking. It should demonstrate your ability to code
-and is an opportunity for you to show us what you're capable of.
+The test application should be written predominantly using Java. Using HTML, CSS & Javascript for the display of data
+will be looked at favourably, as this will help show your front-end abilities.
+We don't spend too much time on it. We estimate that this task should take 1 ~ 3 hours, give or take ...
 
 ## What it should do
-The application should allow a user to select or input any date, of any year, resulting in the display of flights on
-that day, displayed in chronological order -- a Flight Information Display.
+The application should consume the [flight data](flights.csv) file and display all flights for the current day and time,
+in chronological order. Flights that are in the past should be displayed as "Departed"  -- 
+similar to a Flight Information Display that you might find in an airport.
 
 In addition you should adhere to the following conditions:
 
-1) It must be easy to run using libraries & tools commonly available on a development machine. 
-1) Clear instructions for how to build and run the application should be included within the code, e.g. `README.md`
+1) Spring Boot should be used as the basis of the project. 
+1) It must use Gradle as the build mechanism. 
+1) All dependent libraries must be publicly available. 
+1) Clear and concise instructions for how to build and run the application should be included within the code, e.g. `README.md`
 1) The code must be your own work. If you have a strong case to use a small code snippet of someone else's e.g. a
 boilerplate function, it must be clearly commented and attributed to the original author.
 1) The flight data cannot be changed, and must be loaded from the CSV file, so it can easily be replaced with another file.
 
-The interface should be web-based -- as already mentioned -- and you should choose the approach you
-feel demonstrates your expertise and suitability for the position.
+**_You should choose an approach that you feel demonstrates your expertise and suitability for the position._**
 
 ## Supporting Data
 The [flight data](flights.csv) is a simple comma-separated file containing the following:
@@ -56,7 +58,7 @@ The [flight data](flights.csv) is a simple comma-separated file containing the f
 The ``x`` denotes days that the flight operates. 
 
 ## How to submit your test
-**_Please do not try and push your code into this repository._** This project is merely a location to hold the test data
+**PLEASE DO NOT TRY AND PUSH YOUR CODE INTO THIS REPOSITORY.** This project is merely a location to hold the test data 
 and description of the test.
 
 Preferably you will submit your code via a public repository you own e.g. yor own Github or Bitbucket account. However,
