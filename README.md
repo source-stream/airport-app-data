@@ -2,7 +2,7 @@
 ## Rules
 The test application should be written predominantly using Java. Using HTML, CSS & Javascript for the display of data
 will be looked at favourably, as this will help show your front-end abilities.
-Don't spend too much time on it. The aim of this test is to understand your coding style and approach to solving 
+Don't spend too much time on it, though. The aim of this test is to understand your coding style and approach to solving 
 problems. We estimate that this task should take 1 ~ 3 hours, give or take ...
 First, ``checkout`` this project to obtain the [flight data](flights.csv) CSV file, and create a separate project for
 your application using Spring Boot and Gradle.
@@ -64,6 +64,6 @@ The ``x`` denotes days that the flight operates.
 **PLEASE DO NOT TRY AND PUSH YOUR CODE INTO THIS REPOSITORY.** This project is merely a location to hold the test data 
 and description of the test.
 
-Preferably you will submit your code via a public repository you own e.g. yor own Github or Bitbucket account. However,
+Preferably you will submit your code via a public repository you own e.g. your own Github or Bitbucket account. However,
 you may also submit your code via email or file sharing mechanism - e.g. Dropbox - using an archive, such as zip file or 
 tarball (please consider the size of the file before emailing). 
