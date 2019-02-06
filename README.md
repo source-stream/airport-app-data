@@ -2,9 +2,9 @@
 ## Rules
 The test application should be written predominantly using Java. Using HTML, CSS & Javascript for the display of data
 will be looked at favourably, as this will help show your front-end abilities.
-We don't spend too much time on it. We estimate that this task should take 1 ~ 3 hours, give or take ...
+Don't spend too much time on it. We estimate that this task should take 1 ~ 3 hours, give or take ...
 First, ``checkout`` this project to obtain the [flight data](flights.csv) CSV file, and create a separate project for
-your application using Spring Boot.
+your application using Spring Boot and Gradle.
 
 ## What it should do
 The application should consume the [flight data](flights.csv) file and display all flights for the current day and time,
